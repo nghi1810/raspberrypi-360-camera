@@ -1,4 +1,6 @@
 # raspberrypi-360-camera
+<img width="803" height="457" alt="image" src="https://github.com/user-attachments/assets/114b3154-0019-4b1b-9aae-053e1df17feb" />
+
 Driver assistance system using ultrasound sensors and computer vision
 First, you need to read a lot of documentation about ADAS, 360-degree camera systems, and how to use Python through YouTube or other resources. Spend the first few weeks researching and preparing the necessary equipment to build a 360-degree camera system for a car along with a front and rear collision warning system.
 
